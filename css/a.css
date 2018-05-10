@@ -1,0 +1,107 @@
+
+.header h4{
+
+	font-size: 28px;
+	background: url(../imges/logo.png) no-repeat left center;
+	padding-left: 53px;
+	margin-bottom:17px;
+}
+.header p{
+
+	background: url(../imges/sanjiao.png)no-repeat 2px center;
+	padding-left:15px;
+	font-size: 14px;
+	margin-bottom:21px;
+}
+.header p span{
+
+	color: #999999;
+}
+.nav{
+
+	height: 43px;
+	background-color: #EBEBEB;
+	margin-bottom: 23px;
+}
+.nav ul{
+
+	width: 1000px;
+	margin: 0 auto;
+}
+.nav li{
+
+	width: 66px;
+	height: 43px;
+	float: left;
+	text-align:center;
+}
+.nav  li a{color: #000;
+
+	line-height: 43px;}
+.nav .active{
+
+	border-style: solid;
+	border-width: 1px;
+	border-color: #ccc;
+	border-top-color: #f00;
+	border-bottom-color: #fff;
+	background: #fff;
+	
+}
+.nav .active a{
+		
+		color: #f00;
+	}
+.main ul li{
+
+	width: 235px;
+	height: 268px;
+	border:1px solid #ccc;
+	float: left;
+	margin-right: 17px;
+	margin-top: 32px;
+}                                    
+.main li div{
+	text-align: center;
+	height: 156px;
+	margin-bottom: 10px;
+}
+.main li img{
+	vertical-align: middle;
+}
+.main li span{
+	height: 156px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.main ul li h5,.main ul li p{
+	line-height: 22px;
+	margin-left: 10px;
+	width: 206px;
+}
+.main ol{
+	margin-left: 253px;
+	margin-bottom: 106px;
+}
+ol li{
+
+	padding: 6px 9px;
+	margin-right: 5px;
+	border:1px solid #ccc;
+	border-radius: 3px;
+	float: left;
+    margin-top: 53px;
+}
+ol li:hover{
+	background:#f00;
+	color: #fff;
+}
+.footer p{
+
+	text-align: center;
+	margin-top: 19px;
+}
+.footer p span{
+
+	margin:0 5px;
+}
